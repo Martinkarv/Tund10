@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\Tund10\SpaceCounter\bin\Debug\SpaceCounter.exe.config
+C:\Users\karvm\source\repos\Tund10\SpaceCounter\bin\Debug\SpaceCounter.exe
+C:\Users\karvm\source\repos\Tund10\SpaceCounter\bin\Debug\SpaceCounter.pdb
+C:\Users\karvm\source\repos\Tund10\SpaceCounter\obj\Debug\SpaceCounter.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\Tund10\SpaceCounter\obj\Debug\SpaceCounter.exe
+C:\Users\karvm\source\repos\Tund10\SpaceCounter\obj\Debug\SpaceCounter.pdb

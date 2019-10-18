@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\Tund10\Tund10\obj\Debug\Tund10.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\Tund10\Tund10\bin\Debug\Tund10.exe.config
+C:\Users\karvm\source\repos\Tund10\Tund10\bin\Debug\Tund10.exe
+C:\Users\karvm\source\repos\Tund10\Tund10\bin\Debug\Tund10.pdb
+C:\Users\karvm\source\repos\Tund10\Tund10\obj\Debug\Tund10.exe
+C:\Users\karvm\source\repos\Tund10\Tund10\obj\Debug\Tund10.pdb

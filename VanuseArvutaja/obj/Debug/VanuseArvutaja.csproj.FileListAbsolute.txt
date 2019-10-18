@@ -1,0 +1,5 @@
+C:\Users\karvm\source\repos\Tund10\VanuseArvutaja\bin\Debug\VanuseArvutaja.exe.config
+C:\Users\karvm\source\repos\Tund10\VanuseArvutaja\bin\Debug\VanuseArvutaja.exe
+C:\Users\karvm\source\repos\Tund10\VanuseArvutaja\bin\Debug\VanuseArvutaja.pdb
+C:\Users\karvm\source\repos\Tund10\VanuseArvutaja\obj\Debug\VanuseArvutaja.exe
+C:\Users\karvm\source\repos\Tund10\VanuseArvutaja\obj\Debug\VanuseArvutaja.pdb

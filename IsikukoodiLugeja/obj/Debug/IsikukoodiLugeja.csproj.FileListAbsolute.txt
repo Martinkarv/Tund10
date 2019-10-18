@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\Tund10\IsikukoodiLugeja\bin\Debug\IsikukoodiLugeja.exe.config
+C:\Users\karvm\source\repos\Tund10\IsikukoodiLugeja\bin\Debug\IsikukoodiLugeja.exe
+C:\Users\karvm\source\repos\Tund10\IsikukoodiLugeja\bin\Debug\IsikukoodiLugeja.pdb
+C:\Users\karvm\source\repos\Tund10\IsikukoodiLugeja\obj\Debug\IsikukoodiLugeja.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\Tund10\IsikukoodiLugeja\obj\Debug\IsikukoodiLugeja.exe
+C:\Users\karvm\source\repos\Tund10\IsikukoodiLugeja\obj\Debug\IsikukoodiLugeja.pdb
